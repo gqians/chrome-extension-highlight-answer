@@ -2,7 +2,7 @@
  * 配置
  ***********************/
 const RULES_URL =
-  "https://raw.githubusercontent.com/yourname/highlight-rules/main/rules.json";
+  "https://raw.githubusercontent.com/gqians/chrome-extension-highlight-answer/main/dataset/perlelabTask.json";
 
 let lastUrl = location.href;
 let rulesCache = null;
@@ -32,21 +32,18 @@ function getFullHTMLAsText() {
 
 function pageContains(text) {
 	const fullText = getFullHTMLAsText();
-	console.log(fullText)
 	return fullText.includes(text);
 }
 /***********************
  * 高亮文字 b
  ***********************/
 function highlightText(text) {
-	console.log(text)
   const walker = document.createTreeWalker(
     document.body,
     NodeFilter.SHOW_TEXT
   );
 
   let node;
-	console.log(walker)
   while ((node = walker.nextNode())) {
     // 跳过已经高亮过的
     if (node.parentElement?.dataset?.highlighted) continue;
@@ -80,10 +77,9 @@ function highlightText(text) {
  ***********************/
 async function applyRules() {
   const rules = await loadRules();
-	console.log(rules)
   rules.forEach(rule => {
-    if (pageContains(rule.if)) {
-      highlightText(rule.highlight);
+    if (pageContains(rule.key)) {
+      highlightText(rule.value);
     }
   });
 }
@@ -92,15 +88,14 @@ async function applyRules() {
  ***********************/
 async function loadRules() {
   if (rulesCache) return rulesCache;
-
-  // const res = await fetch(RULES_URL, { cache: "no-store" });
-  // const json = await res.json();
-  // rulesCache = json.rules || [];
-	rulesCache = [
-			{
-				"if": "Recurrent shoulder instability in a collegiate swimmer. The shoulder slips out during overhead strokes and remains sore for days afterward. Exam shows apprehension with abduction and external rotation, along with generalized laxity. Physical therapy has reduced pain but dislocations continue. Imaging and surgical stabilization options were reviewed to reduce recurrence and restore performance.",
-				"highlight": "Orthopedics"
-			}
-		]
+	rulesCache = [];
+  const res = await fetch(RULES_URL, { cache: "no-store" });
+  const json = await res.json();
+	// 将多个task合并成一个
+	for (const task in json) {
+		json[task].forEach((rule: any) => {
+			rulesCache.push(rule);
+		})
+	}
   return rulesCache;
 }

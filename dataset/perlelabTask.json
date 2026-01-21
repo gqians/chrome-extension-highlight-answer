@@ -112,5 +112,47 @@
 		"key": "Severe epigastric pain started after a large meal. The discomfort radiates to the back and is accompanied by persistent vomiting. Abdominal exam shows epigastric tenderness without peritoneal signs. Lipase is markedly elevated and liver enzymes are mildly increased. Acute pancreatitis was diagnosed and treatment with fluids and supportive care was initiated while evaluating possible causes.",
 		"value": "Gastroenterology"
 		}
-	]
+	],
+	"task2": [
+		{
+			"key": "My smartwatch keeps dying unexpectedly. The issue appears to be with the smartwatch charger I bought, which stopped working after only a few uses. Now I can't keep the watch powered. Please assist.",
+			"value": "smartwatch charger"
+		},
+		{
+			"key": "I bought a suitcase for an upcoming trip and used it for the first time yesterday. During the journey, one of the wheels completely broke off. Now it barely rolls at all. I'd like to request a replacement.",
+			"value": "suitcase"
+		},
+		{
+			"key": "I was really excited when my order arrived because I'd been waiting all week. But the wireless headphones I received only play sound on one side. It makes it impossible to listen to music or podcasts normally. Can you help me resolve this?",
+			"value": "wireless headphones"
+		},
+		{
+			"key": "I use my bag daily for normal commuting. The backpack I received recently now has a broken zipper on the main pocket. Everything keeps slipping out. I'd like to fix or replace it.",
+			"value": "backpack"
+		},
+		{
+			"key": "After fully charging my device overnight, I expected it to last the entire day. Instead, the smartwatch battery dies within a couple of hours. This has happened multiple times now. I'd like a solution.",
+			"value": "smartwatch"
+		},
+		{
+			"key": "I needed better focus for work calls. That's why I bought noise-canceling headphones, but they barely reduce any background noise. I can still hear everything around me. This is disappointing.",
+			"value": "noise-canceling headphones"
+		},
+		{
+			"key": "I got everything set up in my kitchen and was excited to start meal prepping. However, the blender I bought makes a loud grinding noise that sounds unsafe. It didn't do this at first. Could someone take a look?",
+			"value": "blender"
+		},
+		{
+			"key": "I expected my purchase to make getting ready in the morning easier. Instead, the hair dryer overheats and shuts off halfway through drying. This has happened several times now. It's really inconvenient.",
+			"value": "hair dryer"
+		},
+		{
+			"key": "I gifted someone a leather wallet from your store. Unfortunately, they told me the stitching is already coming apart after very light use. That's pretty embarrassing. What can be done?",
+			"value": "leather wallet"
+		},
+		{
+			"key": "I was chopping vegetables last night when something alarming happened. One of the kitchen knives I recently purchased snapped in half. Luckily no one was hurt, but it was very surprising. Can we discuss replacements?",
+			"value": "kitchen knives"
+		}
+]
 }

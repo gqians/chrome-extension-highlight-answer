@@ -115,6 +115,10 @@
 		{
 			"key": "NICU note: feeding intolerance in a premature infant. Non-bilious emesis has persisted despite changes in formula concentration and feeding technique. Weight gain has plateaued and intermittent apnea has been observed during feeds. Abdomen is soft with mild distention, and stool frequency has decreased. A diagnostic workup was initiated and feeding strategy was adjusted while monitoring continued.",
 			"value": "Neonatology"
+		},
+		{
+			"key":"Over the past three months, itchy plaques have appeared on the elbows and scalp. The lesions are well-demarcated with thick scale, and several fingernails show pitting. No fever, new soaps, or recent medication changes were reported. Moisturizers have provided minimal relief. Topical anti-inflammatory therapy was prescribed and follow-up was arranged if symptoms spread or joint pain develops.",
+			"value":"Dermatology"
 		}
 	],
 	"task2": [
@@ -201,6 +205,14 @@
 		{
 			"key": "I only planned to replace the band on my smartwatch. The new smartwatch band won't stay clasped though, and the watch keeps slipping off. I'm worried I'll lose it completely. Can I exchange it?",
 			"value": "smartwatch band"
+		},
+		{
+			"key": "At work I've been trying to improve my desk setup. That's why I purchased a laptop stand, but it keeps collapsing under the weight of my laptop. I'm worried it might damage my device. I'd appreciate a sturdier option.",
+			"value": "laptop stand"
+		},
+		{
+			"key": "I double-checked the product listing before ordering. Still, the tablet case that arrived is way too small for my device. I can't fit it inside at all. What are my options?",
+			"value": "tablet case"
 		}
 	],
 	"task3": [
@@ -303,6 +315,14 @@
 		{
 			"key":"User information will not be sold, rented, or shared for marketing purposes without explicit opt-in consent.",
 			"value":"Privacy"
+		},
+		{
+			"key":"All fees owed under this Agreement shall be paid within thirty (30) days of invoice issuance. Late payments may incur interest at a rate of 1.5% per month.",
+			"value":"Payment Terms"
+		},
+		{
+			"key":"All trade secrets and confidential data disclosed are protected under this Agreement. The receiving party shall not share them with third parties. Only employees with a need to know may access the information.",
+			"value":"Confidentiality"
 		}
 	]
 }

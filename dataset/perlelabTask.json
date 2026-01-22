@@ -153,6 +153,30 @@
 		{
 			"key": "I was chopping vegetables last night when something alarming happened. One of the kitchen knives I recently purchased snapped in half. Luckily no one was hurt, but it was very surprising. Can we discuss replacements?",
 			"value": "kitchen knives"
+		},
+		{
+			"key": "I wore my purchase for the first time yesterday and immediately had problems. The winter jacket zipper completely jammed and wouldn't move. For something brand new, that feels unacceptable. Please advise.",
+			"value": "winter jacket"
+		},
+		{
+			"key": "I bought a new kitchen appliance to speed things up. Unfortunately, the electric kettle leaks from the base every time I fill it with water. I'm worried this might be unsafe. Please get back to me soon.",
+			"value": "electric kettle"
+		},
+		{
+			"key": "I've been training for a race and needed reliable footwear. Unfortunately, the running shoes from my order are already falling apart after just a few uses. The sole is separating from the base. This shouldn't happen so quickly.",
+			"value": "running shoes"
+		},
+		{
+			"key": "I recently ordered an office chair to improve comfort while working from home. However, it squeaks loudly every time I shift my weight. It's incredibly distracting. I'd appreciate guidance on next steps.",
+			"value": "office chair"
+		},
+		{
+			"key": "Throughout the workday, my cursor keeps freezing. The problem seems to be the wireless mouse I purchased, since it disconnects randomly even with new batteries. This is affecting my productivity. Can you help?",
+			"value": "wireless mouse"
+		},
+		{
+			"key": "Everything was working fine with my purchase at first. Then suddenly the vacuum cleaner stopped turning on at all. I checked outlets and cables already. Nothing works now.",
+			"value": "vacuum cleaner"
 		}
 	],
 	"task3": [
@@ -170,7 +194,7 @@
 		},
 			{
 			"key": "The Company limits its total aggregate liability under this Agreement to the amounts paid by the Client during the twelve (12) months preceding the claim.",
-			"value": "Payment Terms"
+			"value": "Liability"
 		},
 			{
 			"key": "This Agreement may be terminated by the Company for convenience upon thirty (30) days’ written notice to the Client.",
@@ -230,6 +254,22 @@
 		},
 		{
 			"key":"The service is provided as is without warranties. Company disclaims all implied warranties. Liability is capped under this Agreement. Some jurisdictions may not allow exclusions.",
+			"value":"Liability"
+		},
+		{
+			"key":"All charges are exclusive of taxes, and the Client is responsible for any applicable sales, VAT, or similar taxes.",
+			"value":"Payment Terms"
+		},
+		{
+			"key":"Customer shall pay all invoices within thirty days. Late payments will incur interest. Fees are non‑refundable except as stated. Taxes are the responsibility of the Customer.",
+			"value":"Payment Terms"
+		},
+		{
+			"key":"Personal information provided by users will be stored securely and retained only for as long as necessary to fulfill contractual obligations.",
+			"value":"Privacy"
+		},
+		{
+			"key":"In no event shall the Company be responsible for losses resulting from unauthorized access to the Client’s account caused by the Client’s failure to secure credentials.",
 			"value":"Liability"
 		}
 	]

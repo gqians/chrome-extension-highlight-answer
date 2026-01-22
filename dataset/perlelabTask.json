@@ -111,6 +111,10 @@
 			{
 		"key": "Severe epigastric pain started after a large meal. The discomfort radiates to the back and is accompanied by persistent vomiting. Abdominal exam shows epigastric tenderness without peritoneal signs. Lipase is markedly elevated and liver enzymes are mildly increased. Acute pancreatitis was diagnosed and treatment with fluids and supportive care was initiated while evaluating possible causes.",
 		"value": "Gastroenterology"
+		},
+		{
+			"key": "NICU note: feeding intolerance in a premature infant. Non-bilious emesis has persisted despite changes in formula concentration and feeding technique. Weight gain has plateaued and intermittent apnea has been observed during feeds. Abdomen is soft with mild distention, and stool frequency has decreased. A diagnostic workup was initiated and feeding strategy was adjusted while monitoring continued.",
+			"value": "Neonatology"
 		}
 	],
 	"task2": [
@@ -177,6 +181,26 @@
 		{
 			"key": "Everything was working fine with my purchase at first. Then suddenly the vacuum cleaner stopped turning on at all. I checked outlets and cables already. Nothing works now.",
 			"value": "vacuum cleaner"
+		},
+		{
+			"key": "I bought something specifically to help keep my phone charged while traveling. But the portable charger barely holds any power and drains almost immediately. This completely defeats the purpose. I'd like help resolving this.",
+			"value": "portable charger"
+		},
+		{
+			"key": "I've been trying to start a home yoga routine. The yoga mat I ordered arrived with a very strong chemical odor that still hasn't faded after days of airing out. It's honestly unpleasant to use. Is there a fix?",
+			"value": "yoga mat"
+		},
+		{
+			"key": "I had been waiting weeks to upgrade my workspace. When the standing desk arrived, the tabletop already had a large crack in it. The box looked fine, so it must have shipped this way. Please help arrange a replacement.",
+			"value": "standing desk"
+		},
+		{
+			"key": "My mornings have been a mess lately. I thought buying a new coffee maker would help with that, but instead it keeps shutting off mid-brew. I've followed the instructions exactly. This is definitely not what I expected.",
+			"value": "coffee maker"
+		},
+		{
+			"key": "I only planned to replace the band on my smartwatch. The new smartwatch band won't stay clasped though, and the watch keeps slipping off. I'm worried I'll lose it completely. Can I exchange it?",
+			"value": "smartwatch band"
 		}
 	],
 	"task3": [
@@ -271,6 +295,14 @@
 		{
 			"key":"In no event shall the Company be responsible for losses resulting from unauthorized access to the Client’s account caused by the Client’s failure to secure credentials.",
 			"value":"Liability"
+		},
+		{
+			"key":"The Client agrees to indemnify and hold harmless the Company from any claims, losses, or damages resulting from the Client’s misuse of the Services.",
+			"value":"Liability"
+		},
+		{
+			"key":"User information will not be sold, rented, or shared for marketing purposes without explicit opt-in consent.",
+			"value":"Privacy"
 		}
 	]
 }

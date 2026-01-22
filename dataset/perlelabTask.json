@@ -154,5 +154,59 @@
 			"key": "I was chopping vegetables last night when something alarming happened. One of the kitchen knives I recently purchased snapped in half. Luckily no one was hurt, but it was very surprising. Can we discuss replacements?",
 			"value": "kitchen knives"
 		}
-]
+	],
+	"task3": [
+		{
+			"key": "This Agreement remains in effect until terminated. Either party can end it for convenience with notice. Certain sections survive termination. All outstanding obligations remain enforceable.",
+			"value": "Termination"
+		},
+		{
+			"key": "Personal information is stored securely by the Company. It is used only for legitimate business purposes. Users have rights to access and correction.",
+			"value": "Privacy"
+		},
+			{
+			"key": "If this Agreement is terminated, any unpaid fees accrued prior to the termination date shall remain immediately due and payable.",
+			"value": "Payment Terms"
+		},
+			{
+			"key": "The Company limits its total aggregate liability under this Agreement to the amounts paid by the Client during the twelve (12) months preceding the claim.",
+			"value": "Payment Terms"
+		},
+			{
+			"key": "This Agreement may be terminated by the Company for convenience upon thirty (30) days’ written notice to the Client.",
+			"value": "Termination"
+		},
+			{
+			"key": "Subscription fees are non-refundable once the billing cycle has commenced, except as required by applicable law.",
+			"value": "Payment Terms"
+		},
+			{
+			"key": "The Client acknowledges that the Services are provided ‘as is’ and disclaims any warranties to the maximum extent permitted by law.",
+			"value": "Liability"
+		},
+			{
+			"key": "Failure to pay any outstanding balance within fifteen (15) days of written notice shall constitute grounds for immediate suspension or termination of Services.",
+			"value": "Termination"
+		},
+			{
+			"key": "Billing occurs monthly in advance. Payment is due upon receipt of invoice. Failure to pay may result in service suspension.",
+			"value": "Payment Terms"
+		},
+			{
+			"key": "The Company shall not be liable for service interruptions caused by events beyond its reasonable control, including acts of God or governmental actions.",
+			"value": "Liability"
+		},
+		{
+			"key": "The Company may collect usage analytics to improve performance, provided such data is anonymized and does not identify individual users.",
+			"value": "Privacy"
+		},
+		{
+			"key":"Company is not liable for indirect or consequential damages. Liability is limited to the amount paid in the prior twelve months. These limits apply regardless of claim type.",
+			"value":"Liability"
+		},
+		{
+			"key":"Upon termination of this Agreement, all licenses granted herein shall immediately cease, and the Client must discontinue use of the Services.",
+			"value":"Termination"
+		}
+	]
 }

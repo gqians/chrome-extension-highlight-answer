@@ -207,6 +207,30 @@
 		{
 			"key":"Upon termination of this Agreement, all licenses granted herein shall immediately cease, and the Client must discontinue use of the Services.",
 			"value":"Termination"
+		},
+		{
+			"key":"Subscription fees are billed on a monthly basis and will be automatically charged to the payment method on file at the start of each billing cycle, unless the subscription is canceled prior to the renewal date.",
+			"value":"Payment Terms"
+		},
+		{
+			"key":"The Company shall not be responsible for any indirect, incidental, or consequential damages arising from the use of the Services, even if advised of the possibility of such damages.",
+			"value":"Liability"
+		},
+		{
+			"key":"This Agreement shall automatically terminate upon the dissolution or insolvency of either party.",
+			"value":"Termination"
+		},
+		{
+			"key":"The Company shall not be liable for any failure to perform its obligations under this Agreement if such failure is caused by events beyond its reasonable control, including acts of God or governmental actions.",
+			"value":"Liability"
+		},
+		{
+			"key":"Monthly fees shall be automatically charged to the payment method on file unless canceled prior to the renewal date.",
+			"value":"Payment Terms"
+		},
+		{
+			"key":"The service is provided as is without warranties. Company disclaims all implied warranties. Liability is capped under this Agreement. Some jurisdictions may not allow exclusions.",
+			"value":"Liability"
 		}
 	]
 }

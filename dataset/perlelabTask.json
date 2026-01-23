@@ -323,6 +323,14 @@
 		{
 			"key":"All trade secrets and confidential data disclosed are protected under this Agreement. The receiving party shall not share them with third parties. Only employees with a need to know may access the information.",
 			"value":"Confidentiality"
+		},
+		{
+			"key":"Either party may terminate this Agreement immediately upon written notice if the other party materially breaches any provision and fails to cure such breach within ten (10) days.",
+			"value":"Termination"
+		},
+		{
+			"key":"The Recipient agrees to keep all proprietary information strictly confidential. Such information may only be used for purposes of this Agreement. The Recipient must take reasonable measures to protect it from disclosure. These obligations survive termination.",
+			"value":"Confidentiality"
 		}
 	]
 }

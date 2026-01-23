@@ -213,6 +213,14 @@
 		{
 			"key": "I double-checked the product listing before ordering. Still, the tablet case that arrived is way too small for my device. I can't fit it inside at all. What are my options?",
 			"value": "tablet case"
+		},
+		{
+			"key": "I try to take good care of my cookware. Still, the frying pan I ordered already has scratches, even though I only use soft utensils. Food is starting to stick badly. This feels misleading.",
+			"value": "frying pan"
+		},
+		{
+			"key": "Calls and music constantly cut out when I use my new device. The issue seems to be with the wireless earbuds I purchased, because one side disconnects repeatedly. I've already tried troubleshooting. It hasn't helped.",
+			"value": "wireless earbuds"
 		}
 	],
 	"task3": [
@@ -331,6 +339,18 @@
 		{
 			"key":"The Recipient agrees to keep all proprietary information strictly confidential. Such information may only be used for purposes of this Agreement. The Recipient must take reasonable measures to protect it from disclosure. These obligations survive termination.",
 			"value":"Confidentiality"
+		},
+		{
+			"key":"User data collected through the Platform shall be processed in accordance with applicable data protection laws and shall not be disclosed to third parties without consent.",
+			"value":"Privacy"
+		},
+		{
+			"key":"We collect personal data to provide our services. Data is processed according to our privacy policy. Users may request deletion of their information. We comply with data protection laws.",
+			"value":"Privacy"
+		},
+		{
+			"key":"User data collected through the Platform shall be processed in accordance with applicable data protection laws and shall not be disclosed to third parties without consent.",
+			"value":"Privacy"
 		}
 	]
 }

@@ -352,5 +352,47 @@
 			"key":"User data collected through the Platform shall be processed in accordance with applicable data protection laws and shall not be disclosed to third parties without consent.",
 			"value":"Privacy"
 		}
+	],
+	"task4":[
+		{
+			"key":"After the documentary aired, social media filled with reactions from viewers. Some praised the storytelling, while others criticized the pacing. The production team monitored the discussion closely. Future edits will be explored if helpful. A bonus episode is under consideration.",
+			"value":"Future edits will be explored if helpful."
+		},
+		{
+			"key":"During the simulation exercise, emergency responders practiced evacuation procedures. Observers recorded response times and coordination levels. Equipment was checked after each run. Modifications will be introduced if useful. Another drill is planned.",
+			"value":"Modifications will be introduced if useful."
+		},
+		{
+			"key":"During the quarterly review, leadership discussed performance metrics and future hiring goals. Sales numbers were higher than expected, while support tickets decreased. A new compensation structure was introduced for managers. Some changes will be made if it makes sense. The team left with clear action items.",
+			"value":"Some changes will be made if it makes sense."
+		},
+		{
+			"key":"Once the prototype was assembled, technicians began running performance diagnostics. Several components exceeded expected benchmarks. The testing report was circulated internally. Improvements may be introduced where useful. A second prototype is already in development.",
+			"value":"Improvements may be introduced where useful."
+		},
+		{
+			"key":"Once the app update was released, users began downloading it overnight. Early reviews mentioned faster load times. Developers monitored crash reports closely. Patches will be applied as needed. A public announcement is coming.",
+			"value":"Patches will be applied as needed."
+		},
+		{
+			"key":"After reviewing the audit findings, executives met privately to discuss potential risks. Several compliance gaps were identified in the report. Legal counsel recommended immediate documentation updates. Corrective action will occur when appropriate. Another audit is expected next quarter.",
+			"value":"Corrective action will occur when appropriate."
+		},
+		{
+			"key":"The board meeting stretched longer than anticipated due to questions about budget allocations. Financial officers presented updated forecasts. Department heads outlined their staffing needs. A decision will be made under the right conditions. The next meeting is set for next week.",
+			"value":"A decision will be made under the right conditions."
+		},
+		{
+			"key":"At sunrise, hikers began arriving at the trailhead to avoid the midday heat. Rangers provided safety briefings before departure. Weather conditions remained favorable throughout the morning. Route changes may occur depending on circumstances. Visitors were advised to check signage.",
+			"value":"Route changes may occur depending on circumstances."
+		},
+		{
+			"key":"Before the semester began, faculty members updated the course syllabi and lesson plans. Online materials were uploaded to the learning portal. Students received their login credentials this week. Additional adjustments will happen if required. Orientation sessions are still on schedule.",
+			"value":"Additional adjustments will happen if required."
+		},
+		{
+			"key":"The marketing department launched the new campaign on social media platforms early this morning. Initial engagement numbers are lower than projected, but steady. Designers are preparing alternate visuals. We will refine the approach as necessary. A second wave of posts is planned.",
+			"value":"We will refine the approach as necessary."
+		}
 	]
 }

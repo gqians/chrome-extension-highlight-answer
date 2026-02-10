@@ -429,6 +429,14 @@
 		{
 			"key":"We can either cut the arts program entirely or fire three science teachers. There's simply no other way to balance the school budget.",
 			"value":"False Dilemma"
+		},
+		{
+			"key":"If the city approves this small zoning change for a coffee shop, developers will take it as a green light. Within five years, this entire residential neighborhood will be transformed into a commercial district.",
+			"value":"Slippery Slope"
+		},
+		{
+			"key":"Critics say our new policy hurts small businesses, but let's remember that America was built on innovation and entrepreneurship. Our founders would be proud of how far we've come.",
+			"value":"Red Herring"
 		}
 	]
 }

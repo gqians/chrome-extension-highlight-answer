@@ -465,7 +465,14 @@
 		{
 			"key":"The CEO of our company thinks we should oppose the new data privacy regulations. She built a billion-dollar business, so she obviously understands policy better than those bureaucrats in Washington.",
 			"value":"Appeal to Authority"
+		},
+		{
+			"key":"If you don't support this bill, imagine the faces of hungry children going to bed without dinner. Think of their tears, their empty stomachs. Are you really going to vote against them?",
+			"value":"Appeal to Emotion"
+		},
+		{
+			"key":"Why are we talking about whether I completed the project on time? The real issue is that the company doesn't appreciate how hard everyone has been working lately.",
+			"value":"Red Herring"
 		}
-
 	]
 }

@@ -437,6 +437,22 @@
 		{
 			"key":"Critics say our new policy hurts small businesses, but let's remember that America was built on innovation and entrepreneurship. Our founders would be proud of how far we've come.",
 			"value":"Red Herring"
+		},
+		{
+			"key":"Ever since they installed that new cell tower near our school, three teachers have gotten sick. The tower's radiation is obviously causing health problems.",
+			"value":"False Cause"
+		},
+		{
+			"key":"Crime rates dropped right after we elected the new mayor. Her tough-on-crime rhetoric must be working, even though none of her proposed policies have been implemented yet.",
+			"value":"False Cause"
+		},
+		{
+			"key":"You're either with us in supporting this military action, or you're against our troops and don't care about national security. There's no middle ground here.",
+			"value":"False Dilemma"
+		},
+		{
+			"key":"Those who advocate for work-life balance just want to be lazy and avoid hard work. They think companies should pay them for doing nothing.",
+			"value":"Straw Man"
 		}
 	]
 }

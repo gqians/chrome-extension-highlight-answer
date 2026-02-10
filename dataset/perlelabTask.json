@@ -393,6 +393,42 @@
 		{
 			"key":"I tried one Thai restaurant and didn't like the food. I guess Thai cuisine just isn't for me—I won't be trying any other Thai restaurants.",
 			"value":"Hasty Generalization"
+		},
+		{
+			"key":"Senator Williams argues we need stricter regulations on banks, but he's a career politician who's never worked in the private sector. What could he possibly know about how businesses operate?",
+			"value":"Ad Hominem"
+		},
+		{
+			"key":"The Bible is the word of God because it says so in the Bible, and the Bible is always true because it's the word of God.",
+			"value":"Circular Reasoning"
+		},
+		{
+			"key":"You have to choose: either you support unrestricted free speech, including hate speech, or you're in favor of complete government censorship.",
+			"value":"False Dilemma"
+		},
+		{
+			"key":"People who support gun rights basically want everyone to carry assault rifles everywhere, including schools and hospitals. It's madness.",
+			"value":"Straw Man"
+		},
+		{
+			"key":"Environmentalists want us to stop using all fossil fuels immediately and go back to living like cavemen. That's completely unrealistic and would destroy our economy.",
+			"value":"Straw Man"
+		},
+		{
+			"key":"Once we start letting employees work from home one day a week, they'll demand two days, then three, and before you know it, no one will ever come to the office again and company culture will be destroyed.",
+			"value":"Slippery Slope"
+		},
+		{
+			"key":"My dentist says that climate change is exaggerated by scientists looking for grant money. He's a doctor, so he understands how science really works.",
+			"value":"Appeal to Authority"
+		},
+		{
+			"key":"Exercise is good for you because it improves your health. How does it improve your health? By being good for you.",
+			"value":"Circular Reasoning"
+		},
+		{
+			"key":"We can either cut the arts program entirely or fire three science teachers. There's simply no other way to balance the school budget.",
+			"value":"False Dilemma"
 		}
 	]
 }

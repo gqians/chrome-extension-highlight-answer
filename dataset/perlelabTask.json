@@ -355,124 +355,44 @@
 	],
 	"task4":[
 		{
-			"key":"After the documentary aired, social media filled with reactions from viewers. Some praised the storytelling, while others criticized the pacing. The production team monitored the discussion closely. Future edits will be explored if helpful. A bonus episode is under consideration.",
-			"value":"Future edits will be explored if helpful."
+			"key":"You can't trust Dr. Martinez's research on climate change. I heard she got divorced last year and has been struggling financially. Her personal problems clearly affect her scientific judgment.",
+			"value":"Ad Hominem"
 		},
 		{
-			"key":"During the simulation exercise, emergency responders practiced evacuation procedures. Observers recorded response times and coordination levels. Equipment was checked after each run. Modifications will be introduced if useful. Another drill is planned.",
-			"value":"Modifications will be introduced if useful."
+			"key":"Picture your grandmother alone in a nursing home, abandoned and forgotten. That's what will happen to millions of seniors if you don't support our healthcare initiative.",
+			"value":"Appeal to Emotion"
 		},
 		{
-			"key":"During the quarterly review, leadership discussed performance metrics and future hiring goals. Sales numbers were higher than expected, while support tickets decreased. A new compensation structure was introduced for managers. Some changes will be made if it makes sense. The team left with clear action items.",
-			"value":"Some changes will be made if it makes sense."
+			"key":"Our soldiers are overseas right now, risking their lives, sleeping in tents, missing their families. The least you can do is support this defense spending bill. Don't you love your country?",
+			"value":"Appeal to Emotion"
 		},
 		{
-			"key":"Once the prototype was assembled, technicians began running performance diagnostics. Several components exceeded expected benchmarks. The testing report was circulated internally. Improvements may be introduced where useful. A second prototype is already in development.",
-			"value":"Improvements may be introduced where useful."
+			"key":"You ask why I missed three team meetings this month? Well, have you noticed how outdated our meeting room equipment is? We really should upgrade our video conferencing system.",
+			"value":"Red Herring"
 		},
 		{
-			"key":"Once the app update was released, users began downloading it overnight. Early reviews mentioned faster load times. Developers monitored crash reports closely. Patches will be applied as needed. A public announcement is coming.",
-			"value":"Patches will be applied as needed."
+			"key":"If we allow students to use calculators on math tests, next they'll want to use computers, then AI, and eventually they won't learn any math at all. We'll have a generation that can't do basic arithmetic.",
+			"value":"Slippery Slope"
 		},
 		{
-			"key":"After reviewing the audit findings, executives met privately to discuss potential risks. Several compliance gaps were identified in the report. Legal counsel recommended immediate documentation updates. Corrective action will occur when appropriate. Another audit is expected next quarter.",
-			"value":"Corrective action will occur when appropriate."
+			"key":"This investment strategy must be sound because Tom Brady endorsed it. As one of the greatest athletes of all time, he clearly knows what he's talking about when it comes to financial planning.",
+			"value":"Appeal to Authority"
 		},
 		{
-			"key":"The board meeting stretched longer than anticipated due to questions about budget allocations. Financial officers presented updated forecasts. Department heads outlined their staffing needs. A decision will be made under the right conditions. The next meeting is set for next week.",
-			"value":"A decision will be made under the right conditions."
+			"key":"I've met two people from that department, and both were rude to me. Clearly, everyone in that department has an attitude problem and needs sensitivity training.",
+			"value":"Hasty Generalization"
 		},
 		{
-			"key":"At sunrise, hikers began arriving at the trailhead to avoid the midday heat. Rangers provided safety briefings before departure. Weather conditions remained favorable throughout the morning. Route changes may occur depending on circumstances. Visitors were advised to check signage.",
-			"value":"Route changes may occur depending on circumstances."
+			"key":"Our company's products are the best on the market. How do I know? Because we only sell premium quality items. And what makes them premium? The fact that they're our products.",
+			"value":"Circular Reasoning"
 		},
 		{
-			"key":"Before the semester began, faculty members updated the course syllabi and lesson plans. Online materials were uploaded to the learning portal. Students received their login credentials this week. Additional adjustments will happen if required. Orientation sessions are still on schedule.",
-			"value":"Additional adjustments will happen if required."
+			"key":"I started wearing my lucky socks, and our team won the next three games. These socks are clearly the reason for our winning streak.",
+			"value":"False Cause"
 		},
 		{
-			"key":"The marketing department launched the new campaign on social media platforms early this morning. Initial engagement numbers are lower than projected, but steady. Designers are preparing alternate visuals. We will refine the approach as necessary. A second wave of posts is planned.",
-			"value":"We will refine the approach as necessary."
-		},
-		{
-			"key":"Last night’s storm caused brief power outages across several neighborhoods. Utility crews restored service before sunrise. City officials released a statement thanking residents for their patience. Long-term improvements will be considered later. Emergency lines are still open.",
-			"value":"Long-term improvements will be considered later."
-		},
-		{
-			"key":"As part of the renovation project, contractors removed old fixtures from the lobby area. New lighting was installed earlier today. Safety inspectors approved the updated layout. Final touches will be added when feasible. The entrance remains open to visitors.",
-			"value":"Final touches will be added when feasible."
-		},
-		{
-			"key":"Shortly after the policy update was announced, employees began submitting questions to HR. Clarifications were posted on the company intranet. Managers held brief team meetings to address concerns. Further revisions will be made if necessary. Another update is scheduled next month.",
-			"value":"Further revisions will be made if necessary."
-		},
-		{
-			"key":"During the charity drive, volunteers sorted donated items by category and size. Trucks delivered supplies to shelters throughout the afternoon. Local news stations covered the event. Expansion plans will be discussed later. Organizers thanked participants.",
-			"value":"Expansion plans will be discussed later."
-		},
-		{
-			"key":"Early this morning, the bakery opened with a limited menu due to staff shortages. Customers were informed of the situation at the door. Most orders were still fulfilled without delays. Service will return to normal when possible. A notice was posted online.",
-			"value":"Service will return to normal when possible."
-		},
-		{
-			"key":"Before boarding began, airline staff verified passenger documents at the gate. Luggage was loaded onto the aircraft ahead of schedule. Pilots reviewed weather forecasts. Departure will occur when conditions allow. Travelers waited nearby.",
-			"value":"Departure will occur when conditions allow."
-		},
-		{
-			"key":"Yesterday, the engineering team wrapped up its internal testing and sent the results to management. Several bugs were documented, but none were considered critical. The release plan was updated during the afternoon meeting. We will move forward once everything looks right. Marketing is preparing public messaging.",
-			"value":"We will move forward once everything looks right."
-		},
-		{
-			"key":"When the shipment arrived, workers unloaded crates into the storage facility. Barcodes were scanned and logged into the system. Supervisors reviewed delivery paperwork. Corrections will be applied where necessary. Distribution resumes tomorrow.",
-			"value":"Corrections will be applied where necessary."
-		},
-		{
-			"key":"At the conference, speakers presented case studies from different industries. Attendees took notes and asked questions during the panels. Networking sessions filled the afternoon agenda. Key takeaways will be shared later. Organizers thanked everyone for attending.",
-			"value":"Key takeaways will be shared later."
-		},
-		{
-			"key":"After weeks of preparation, the research group finally launched the study with its first participants. Data collection began early in the morning and continued throughout the day. Supervisors monitored the process closely. Adjustments will be implemented where appropriate. A summary will be drafted by Friday.",
-			"value":"Adjustments will be implemented where appropriate."
-		},
-		{
-			"key":"When the new menu debuted, regular customers were eager to try unfamiliar dishes. Servers described ingredients and preparation methods. The kitchen tracked which items sold fastest. Portions will be adjusted where appropriate. A seasonal menu is planned.",
-			"value":"Portions will be adjusted where appropriate."
-		},
-		{
-			"key":"As the exhibition opened, visitors gathered around the featured installation. Curators explained the historical background of the artwork. Photographs were taken throughout the day. Additional displays will be added when possible. The gallery closes at six.",
-			"value":"Additional displays will be added when possible."
-		},
-		{
-			"key":"The client emailed their feedback shortly after the presentation ended. Most of their comments focused on the design rather than the technical features. The project manager shared the notes with the rest of the team. We will respond once the details are clearer. A follow-up call has already been scheduled.",
-			"value":"We will respond once the details are clearer."
-		},
-		{
-			"key":"As the school year ended, teachers finalized grades and prepared report cards. Parents received emails with instructions for pickup. Office staff organized records for the summer. Future improvements will be considered if practical. Maintenance work is scheduled.",
-			"value":"Future improvements will be considered if practical."
-		},
-		{
-			"key":"After months of negotiations, the partnership agreement was finally signed. Both companies issued press releases the same day. Teams from each side began coordinating schedules. Integration steps will proceed when suitable. A joint meeting is planned for Friday.",
-			"value":"Integration steps will proceed when suitable."
-		},
-		{
-			"key":"As the exhibition opened, visitors gathered around the featured installation. Curators explained the historical background of the artwork. Photographs were taken throughout the day. Additional displays will be added when possible. The gallery closes at six.",
-			"value":"Additional displays will be added when possible."
-		},
-		{
-			"key":"Following the training session, employees completed a short assessment on the new software tools. Scores were higher than in previous trials. Managers reviewed the results before lunch. Additional guidance will be offered as appropriate. Feedback will be collected anonymously.",
-			"value":"Additional guidance will be offered as appropriate."
-		},
-		{
-			"key":"After the performance concluded, the audience applauded for several minutes. Actors returned to the stage for multiple curtain calls. Ushers guided people toward the exits. Schedule changes will be announced later. Posters were removed overnight.",
-			"value":"Schedule changes will be announced later."
-		},
-		{
-			"key":"Following the election, officials certified the results and released formal statements. Media outlets reported voter turnout statistics. Analysts debated the implications. Policy adjustments will follow if appropriate. New legislation is under review.",
-			"value":"Policy adjustments will follow if appropriate."
-		},
-		{
-			"key":"After the trial run, organizers collected surveys from participants. Most responses were positive, with a few suggestions for improvement. Technical staff reviewed system logs. Changes will be made where helpful. A full launch is planned.",
-			"value":"Changes will be made where helpful."
+			"key":"I tried one Thai restaurant and didn't like the food. I guess Thai cuisine just isn't for me—I won't be trying any other Thai restaurants.",
+			"value":"Hasty Generalization"
 		}
 	]
 }

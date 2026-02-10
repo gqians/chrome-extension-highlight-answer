@@ -453,6 +453,19 @@
 		{
 			"key":"Those who advocate for work-life balance just want to be lazy and avoid hard work. They think companies should pay them for doing nothing.",
 			"value":"Straw Man"
+		},
+		{
+			"key":"My opponent says we should invest more in public transportation, but he drives a luxury SUV and lives in a gated community. Why should we listen to someone so hypocritical?",
+			"value":"Ad Hominem"
+		},
+		{
+			"key":"My neighbor's electric car broke down twice last year. Electric vehicles are obviously unreliable and not ready for mainstream adoption.",
+			"value":"Hasty Generalization"
+		},
+		{
+			"key":"The CEO of our company thinks we should oppose the new data privacy regulations. She built a billion-dollar business, so she obviously understands policy better than those bureaucrats in Washington.",
+			"value":"Appeal to Authority"
 		}
+
 	]
 }

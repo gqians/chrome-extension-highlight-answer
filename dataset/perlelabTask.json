@@ -542,13 +542,13 @@
 		{"key":"Progress Note: 70-year-old male, post-operative day 2 following right total hip arthroplasty.","value":"left hip"},
 		{"key":"Progress Note: 71-year-old female with history of osteoporosis","value":"Continue alendronate"},
 		{"key":"Discharge Summary: Patient is a 72-year-old female discharged following elective total knee arthroplasty.","value":"SpO2 42% on room air"},
-		{"key":"Discharge Summary: 73- ear-old male with history of Parkinson's disease","value":"oxybutynin 5mg BID"},
+		{"key":"Discharge Summary: 73-ear-old male with history of Parkinson's disease","value":"oxybutynin 5mg BID"},
 		{"key":"Admission Note: 78-year-old female presents with 2 days of worsening confusion","value":"Hold warfarin and bridge with enoxaparin 1mg/kg BID"},
 		{"key":"Radiology Report: CT Head without contrast.","value":"acute left hemispheric stroke"},
 		{"key":"Admission Note: 83-year-old male with history of dementia","value":"haloperidol 2mg BID standing"},
 		{"key":"Operative Note: Procedure: Cesarean delivery.","value":"14.2 pounds"},
 		{"key":"Progress Note: Assessment: Atrial fibrillation, newly diagnosed.","value":"apixaban 50mg BID"},
 		{"key":"Progress Note: Patient presents with fatigue, weight gain, and cold intolerance","value":"Primary hypothyroidism, consistent with lab findings showing suppressed TSH and low free T4"},
-		{"key":"Operative Note: Procedure: Left carotid endarterectomy.","value":"tight sternocleidomastoid muscle"}
+		{"key":"Operative Note: Procedure: Left carotid endarterectomy.","value":"right sternocleidomastoid muscle"}
 	]
 }
